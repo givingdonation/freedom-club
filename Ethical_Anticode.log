@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  12 SEP 2024 21:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  14 SEP 2024 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,7 +340,7 @@ x/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<./images/Fano_plane.png, id=28, 562.1pt x 562.1pt>
+<./images/Fano_plane.png, id=64, 562.1pt x 562.1pt>
 File: ./images/Fano_plane.png Graphic file (type png)
 <use ./images/Fano_plane.png>
 Package pdftex.def Info: ./images/Fano_plane.png  used on input line 15.
@@ -359,29 +359,22 @@ LaTeX Warning: No \author given.
 
 {/nix/store/d3gr5hyxra8id4fz549p2gm05pmwzzx8-texlive-combined-2023/share/texmf-
 var/fonts/map/pdftex/updmap/pdftex.map} <./images/Fano_plane.png>] [2]
-(./Ethical_Anticode.aux)
+[3] (./Ethical_Anticode.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `Ethical_Anticode.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Ethical_Anticode.out':
-(rerunfilecheck)             Before: 1E1297DC64AFF41F9DC956031024FCB9;375
-(rerunfilecheck)             After:  A9C2D26F00FCE33AE7729F19989E99BA;2673.
+Package rerunfilecheck Info: File `Ethical_Anticode.out' has not changed.
+(rerunfilecheck)             Checksum: 02E3EAABBFA7D5DB57470F413FD77AB2;2723.
  ) 
 Here is how much of TeX's memory you used:
- 8830 strings out of 475567
- 141947 string characters out of 5770542
- 1935187 words of memory out of 5000000
- 30890 multiletter control sequences out of 15000+600000
+ 8841 strings out of 475567
+ 142076 string characters out of 5770542
+ 1938187 words of memory out of 5000000
+ 30899 multiletter control sequences out of 15000+600000
  562016 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,6n,79p,295b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1881b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/7n9h8dylb5k7ary546ax6jfalvdlmcdy-texlive-combined-2023-texmfdist/
 fonts/type1/public/amsfonts/cm/cmbx12.pfb></nix/store/7n9h8dylb5k7ary546ax6jfal
 vdlmcdy-texlive-combined-2023-texmfdist/fonts/type1/public/amsfonts/cm/cmr10.pf
@@ -389,10 +382,10 @@ b></nix/store/7n9h8dylb5k7ary546ax6jfalvdlmcdy-texlive-combined-2023-texmfdist/
 fonts/type1/public/amsfonts/cm/cmr12.pfb></nix/store/7n9h8dylb5k7ary546ax6jfalv
 dlmcdy-texlive-combined-2023-texmfdist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 >
-Output written on Ethical_Anticode.pdf (2 pages, 65643 bytes).
+Output written on Ethical_Anticode.pdf (3 pages, 72904 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
